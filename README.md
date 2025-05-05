@@ -57,6 +57,7 @@ Student, Software Engineering – Technion
 📧 neozi2014@gmail.com
 
 📌 Notes
+
 This project was completed individually as part of an academic course.
 
 All code is written in Python and organized into clean, modular files.
