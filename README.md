@@ -48,7 +48,7 @@ Delete suspicious files
 
 Exit safely
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Neo Zino
 
@@ -56,7 +56,7 @@ Student, Software Engineering – Technion
 
 📧 neozi2014@gmail.com
 
-📌 Notes
+## 📌 Notes
 
 This project was completed individually as part of an academic course.
 
