@@ -34,5 +34,37 @@ The system is fully menu-driven and includes logging, exception handling, user i
 
 ---
 
-## 📁 Project Structure
+Follow the menu prompts to:
 
+Scan a folder
+
+Detect suspicious files
+
+Mark files as safe
+
+View statistics
+
+Delete suspicious files
+
+Exit safely
+
+👨‍💻 Author
+Neo Zino
+Student, Software Engineering – Technion
+📧 neozi2014@gmail.com
+
+📌 Notes
+This project was completed individually as part of an academic course.
+
+All code is written in Python and organized into clean, modular files.
+
+Documentation is included inside each module and function for clarity and maintainability.
+
+yaml
+Copy
+
+---
+
+אם תעלה את הקוד לגיטהאב בתיקייה מסודרת עם המבנה הזה, אתה תיראה סופר מקצועי גם בעיניים של מגייסים ב־NVIDIA (או כל מקום אחר).
+
+רוצה שאעזור לך עם ניסוח אנגלי קצר לקורות החיים שמתאר את הפרויקט ומפנה לגיטהאב?
